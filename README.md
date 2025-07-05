@@ -39,6 +39,6 @@ Built using **HTML**, **CSS**, and **JavaScript** — no external libraries or f
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/interactive-navbar.git
+git clone https://github.com/AnishqBhiogade/PRODIGY_WD_01.git
 
 ```
