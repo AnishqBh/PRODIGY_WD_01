@@ -1,6 +1,7 @@
 # Interactive Sticky Navigation Menu
 
 This project is a responsive and interactive navigation bar that:
+
 - Stays fixed at the top of the page
 - Changes background color or text style when the user scrolls
 - Highlights individual menu items when hovered over
@@ -21,7 +22,7 @@ Built using **HTML**, **CSS**, and **JavaScript** — no external libraries or f
 
 ## 📷 Preview
 
-![Demo](demo-screenshot.png)
+![Demo](images/Screenshot%202025-07-05%20154109.png)
 
 ---
 
@@ -31,12 +32,13 @@ Built using **HTML**, **CSS**, and **JavaScript** — no external libraries or f
 - CSS3
 - JavaScript (Vanilla)
 
-
 ---
 
 ## 🚀 How to Run
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/yourusername/interactive-navbar.git
 
+```
